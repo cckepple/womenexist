@@ -61,15 +61,15 @@
                 <div class="row">
                     <div class="col-sm-4">
                         <img src="img/nastywomen.png" class="img-responsive center-block" style="max-height:300px;">
-                        <button class="btn btn-primary">Purchase</button>
+                        <button class="btn btn-danger disabled">Purchase</button>
                     </div>
                     <div class="col-sm-4">
                         <img src="img/pantsuit.png" class="img-responsive center-block" style="max-height:300px;">
-                        <button class="btn btn-primary">Purchase</button>
+                        <button class="btn btn-danger disabled">Purchase</button>
                     </div>    
                     <div class="col-sm-4">
                         <img src="img/istandwith.png" class="img-responsive center-block" style="max-height:300px;">
-                        <button class="btn btn-primary">Purchase</button>
+                        <button class="btn btn-danger disabled">Purchase</button>
                     </div>
                 </div>
             </div>
@@ -139,7 +139,7 @@
 
     <!-- Email Capture Modal -->
     <div class="modal fade" id="emailCap" tabindex="-1" role="dialog" aria-labelledby="emailCap"> 
-      <div class="modal-dialog" role="document" style="margin-top:15%">
+      <div class="modal-dialog" role="document" style="margin-top:10%">
         <div class="modal-content">
           <!-- <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>

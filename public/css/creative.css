@@ -12,7 +12,7 @@ body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
 hr {
-  border-color: #F05F40;
+  border-color: #E0162B;
   border-width: 3px;
   max-width: 50px;
 }
@@ -43,7 +43,7 @@ p {
   margin-bottom: 20px;
 }
 .bg-primary {
-  background-color: #ffcffd;
+  background-color: #0052A5;
 }
 .bg-dark {
   background-color: #222222;
@@ -282,7 +282,7 @@ header .header-content .header-content-inner p {
   margin: 0 auto 20px;
 }
 .text-primary {
-  color: #F05F40;
+  color: #E0162B;
 }
 .no-gutter > [class*='col-'] {
   padding-right: 0;
