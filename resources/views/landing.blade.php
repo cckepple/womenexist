@@ -145,14 +145,14 @@
             <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
             <h4 class="modal-title" id="myModalLabel">Modal title</h4>
           </div> -->
-          <div class="modal-body text-center">
+          <div class="modal-body text-center" style="padding:60px">
             <h2>Welcome</h2>
             <p>Some stupid text, Some stupid text, Some stupid text, Some stupid text.</p>
             <form>
               <div class="form-group">
                 <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
               </div>
-              <button class="btn-default" style="font-size:22px;">Thanks!</button>
+              <button class="btn btn-blue" style="font-size:22px;">Thanks!</button>
             </form>
           </div>
           <!-- <div class="modal-footer">
